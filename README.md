@@ -4,6 +4,8 @@
 - (git --global user.email "moefkiim@gmail.com")
 ## menambahkan file.txt
 - (git add file.txt)
+## melihat status git filenya
+- (git status)
 ## menambahkan isi dari file.txt
 - (git add file.txt)
 - (git commit -m "menambahkan nama sendiri"
