@@ -1,5 +1,6 @@
 #Tugas Pemrograman Internet Pertemuan 3
 ## memasukkan nama dan email yang dipakai untuk git:
+- ke CMD lalu ketik username dan email yang dipakai untuk GitHub
 - (git --global user.name "Moefkiim")
 - (git --global user.email "moefkiim@gmail.com")
 ## menambahkan file.txt
