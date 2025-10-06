@@ -6,13 +6,12 @@
 ## menambahkan file.txt
 - untuk file tertentu yang ingin diupload
 - (git add file.txt)
-- untuk semua file yang ada dalam foldernya
+- untuk semua file yang ada dalamfoldernyaa
 - (git add . )
+## mengkonfirmasi penambahan atau update data
+- (git commit -m "menambahkan nama sendiri"
 ## melihat status git filenya
 - (git status)
-## menambahkan isi dari file.txt
-- (git add file.txt)
-- (git commit -m "menambahkan nama sendiri"
 ## mengecek history log
 - (git log)
 ## agar bisa melanjutkan klik Q
