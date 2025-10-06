@@ -3,8 +3,10 @@
 - (git --global user.name "Moefkiim")
 - (git --global user.email "moefkiim@gmail.com")
 ## menambahkan file.txt
-- untuk file tertentu yang ingin diupload(git add file.txt)
-- untuk semua file yang ada dalam foldernya(git add . )
+- untuk file tertentu yang ingin diupload
+- (git add file.txt)
+- untuk semua file yang ada dalam foldernya
+- (git add . )
 ## melihat status git filenya
 - (git status)
 ## menambahkan isi dari file.txt
